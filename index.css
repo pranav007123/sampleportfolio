@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@600&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=swap');
+.header{
+    background-color: black;
+    
+}
+.head{
+    
+}
+.box{
+    background-image: url(./images/background.jpg);
+    color:white;
+}
+.myimg{
+    width: 70%;
+    height: 100%;
+    border-radius: 120px;
+    margin-left: 20%;
+
+}
+.intro{
+    font-family: 'Kalnia', serif;
+    padding-top: 50px;
+}
+.aboutme{
+    background-image: url(./images/background.jpg);
+    color: azure;
+}
